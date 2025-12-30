@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Android Dasar",
+    "preview": "Belajar Android tanpa HTML",
+    "image": "https://username.github.io/artikel/img/android.png",
+    "content_url": "https://username.github.io/artikel/content/android.md"
+  },
+  {
+    "title": "RecyclerView",
+    "preview": "List dinamis dengan Markdown",
+    "image": "https://username.github.io/artikel/img/recycler.png",
+    "content_url": "https://username.github.io/artikel/content/recyclerview.md"
+  }
+]
